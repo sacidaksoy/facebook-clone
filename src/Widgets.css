@@ -1,0 +1,7 @@
+.widgets {
+    margin-top: 30px;
+}
+
+.widgets > iframe {
+    border-radius: 10px;
+}
