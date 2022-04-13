@@ -1,8 +1,8 @@
 # Facebook Clone
 
-![Facebook Clone](https://i.ibb.co/f9nGPZc/screencapture-netflix-clone-e8820-web-app-2022-04-06-07-58-47.png)
+![Facebook Clone](https://imgur.com/a/EXzx4LD)
 
-[Firebase Live Version of the App](https://netflix-clone-e8820.web.app/)
+[Firebase Live Version of the App](https://fb-clone-bb609.firebaseapp.com/)
 
 
 ## Introduction
