@@ -1,6 +1,6 @@
 # Facebook Clone
 
-![Facebook Clone](https://media.giphy.com/media/LWAaphmPrfaUjDaLqx/giphy.gif | width=100)
+![Facebook Clone]<img src="https://media.giphy.com/media/LWAaphmPrfaUjDaLqx/giphy.gif" width="100%"/>
 
 [Firebase Live Version of the App](https://fb-clone-bb609.firebaseapp.com/)
 
