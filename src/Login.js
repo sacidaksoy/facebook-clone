@@ -23,8 +23,8 @@ function Login() {
   return (
     <div className='login'>
         <div className="login__logo">
-            <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="" />
-            <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="" />
+            <img src="https://freesvg.org/img/instagram_profile-pic.png" alt="" />
+            <img src="https://freesvg.org/img/facebook.png" alt="" />
         </div>
         <Button type="submit" onClick={signIn}>Sign In</Button>
     </div>
